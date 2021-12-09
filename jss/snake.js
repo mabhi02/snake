@@ -1,8 +1,4 @@
-/*
-JavaScript Snake
-First version by Patrick Gillespie - I've since merged in a good number of github pull requests
-http://patorjk.com/games/snake 
-*/
+
 
 /**
 * @module Snake
